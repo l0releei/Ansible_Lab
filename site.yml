@@ -1,5 +1,5 @@
 ---
-- name: Ansible lab
+- name: Ansible_lab
   hosts: local
   gather_facts: true
 
